@@ -4,8 +4,6 @@
   <samp>
     hello, my name is jack
     <br><br>
-    interests:
-    <br><br>
     i love java, i like calculators, esoteric technology, reverse engineering, modding, documentation, mechanical pencils, elevator software, kitchen appliance software (especially microwaves), of montreal, games with command consoles
     <br><br>
     i made the fish above
